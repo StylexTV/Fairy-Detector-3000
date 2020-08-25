@@ -1,1 +1,2 @@
+hub;;Hub
 dungeon_hub;;Dungeon Hub
