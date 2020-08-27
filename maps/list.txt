@@ -1,3 +1,4 @@
 hub;;Hub
 dungeon_hub;;Dungeon Hub
 deep_caverns;;Deep Caverns
+mushroom_desert;;Mushroom Desert
