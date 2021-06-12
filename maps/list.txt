@@ -1,11 +1,11 @@
-hub;;Hub
-dungeon_hub;;Dungeon Hub
-gold_mine;;Gold Mine
-deep_caverns;;Deep Caverns
-the_park;;The Park
-the_barn;;The Barn
-mushroom_desert;;Mushroom Desert
-spiders_den;;Spider's Den
-blazing_fortress;;Blazing Fortress
-the_end;;The End
-jerrys_workshop;;Jerry's Workshop
+hub|Hub
+dungeon_hub|Dungeon Hub
+gold_mine|Gold Mine
+deep_caverns|Deep Caverns
+the_park|The Park
+the_barn|The Barn
+mushroom_desert|Mushroom Desert
+spiders_den|Spider's Den
+blazing_fortress|Blazing Fortress
+the_end|The End
+jerrys_workshop|Jerry's Workshop
